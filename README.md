@@ -112,8 +112,8 @@ If you appreciate our work and want to help us grow, you can contribute by makin
 
 ### 📞 Contact
 
-- Telegram Contact: [@Hexsecteam](https://t.me/cyberforenx)
-- Telegram Group: [@hexsec\_tools](https://t.me/hackingspottelugu)
+- Telegram Contact: [@cyberforenx](https://t.me/cyberforenx)
+- Telegram Group: [@hackingspottelugu](https://t.me/hackingspottelugu)
 
 ---
 
