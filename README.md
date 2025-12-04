@@ -29,8 +29,8 @@ The main features:
 Clone the repository:
 
 ```bash
-git clone https://github.com/hexsecteam/AES-Encrypted-Multi-Client-Server-in-Python-DEMO-.git
-cd AES-Encrypted-Multi-Client-Server-in-Python-DEMO--main
+https://github.com/piyush295/Multi-Client-Server.git
+cd Multi-Client-Server
 ```
 
 Install the required Python module:
