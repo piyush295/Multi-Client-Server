@@ -1,6 +1,3 @@
-# Client script for AES encrypted communication with the server
-# Developed by HexSec Team
-
 from Crypto.Cipher import AES
 from Crypto.Random import get_random_bytes
 import socket
